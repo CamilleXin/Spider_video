@@ -49,6 +49,7 @@ class MaoYan(object):
     # 把获取到的数据用字体对应起来，得到真实数据
     def modify_data(self, data):
         for number, code in enumerate(self.maoyanUnicode):
+            # 将unicode 变成 网页中的样子
             gly = code.replace('uni', '&#x').lower() + ';'
             if gly in data:
                 data = data.replace(gly, str(self.numList[self.maoyanUnicode.index(code)]))
