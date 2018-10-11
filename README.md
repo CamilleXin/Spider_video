@@ -2,10 +2,10 @@
 
 爬取外网的的视频代码
 
-#SpiderData
+# SpiderData
 爬取猫眼票房，反爬虫解析(stonefont)
 
-#解题思路
+# 解决办法
 
 -  解析网页
 
