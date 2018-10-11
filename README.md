@@ -32,3 +32,10 @@
     
    
 -  剩下的具体，请看完整代码
+
+# 说明
+  感谢以下两位大神的文章， 让我可以写出来自己想要的爬虫代码。
+  https://www.jianshu.com/p/79c4272c0969
+  https://zhuanlan.zhihu.com/p/33112359
+  
+ 
